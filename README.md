@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-mattasa&label=Profile%20views&color=0e75b6&style=flat" alt="r-mattasa" /> </p>
 
-- 🌱 I’m currently learning **Nest.js, azure-certification**
+- 🌱 I’m currently learning **Next.js, azure-certification**
 
 - 👨‍💻 All of my projects are available at [https://github.com/r-mattasa/](https://github.com/r-mattasa/)
 
