@@ -30,12 +30,13 @@ Based in Oulu, Finland 🇫🇮
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [[linkedin.com/in/your-profile](https://linkedin.com](https://www.linkedin.com/in/rubini-mattasantharam/?isSelfProfile=true))
+- 💼 **LinkedIn:** https://linkedin.com](https://www.linkedin.com/in/rubini-mattasantharam/?isSelfProfile=true
 - 📧 **Email:** your.email@domain.com
-- 📄 **Portfolio / Site:** [[your-website.com](https://your-website.com)](https://github.com/r-mattasa/KatevaPalvelut)
+- 📄 **Portfolio / Site:** <a> https://your-website.com)](https://github.com/r-mattasa/KatevaPalvelut </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  rubini.cbk@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
