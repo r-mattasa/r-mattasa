@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-mattasa&label=Profile%20views&color=0e75b6&style=flat" alt="r-mattasa" /> </p>
 
--# Hi there, I'm Rubini MattaSantharam 👋
-
 **Full-Stack Software Developer | M.Sc. Computer Science**  
 Based in Oulu, Finland 🇫🇮
 
@@ -14,17 +12,32 @@ Based in Oulu, Finland 🇫🇮
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5/CSS3, Material UI, Tailwind CSS, Zustand, TanStack Query, Vite, Preact
 - **Backend:** Node.js, Express, C#, .NET, Python, REST APIs
-- **Databases & Data:** PostgreSQL, MySQL, SQL Server, pandas, ETL Pipelines
+- **Databases:** PostgreSQL, MySQL, SQL Server
+- **Data Engineering:** Python, pandas, ETL Pipelines
 - **Cloud & DevOps:** Docker, Git, GitLab, Microsoft Azure, Google Cloud APIs
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Featured Projects
 
-- **Kätevä Palvelut** — Full-stack service booking platform (Next.js, TypeScript, PostgreSQL, Material UI)
-- **TalentMap** — Skill bank web application deployed to Azure (Next.js, Express, TypeScript, Docker)
-- **Data Extraction & Reporting Pipeline** — Python/pandas API data processor rendering custom PDF reports
-- **TanStack Query Demo** — Production-ready data fetching & caching demonstration deployed with GitHub Actions
+- 🛠 **[Kätevä Palvelut](https://github.com/r-mattasa/KatevaPalvelut)** — Full-stack service booking platform built with Next.js, TypeScript, Express, PostgreSQL, and Material UI.
+- 🗺 **[TalentMap](https://github.com/r-mattasa)** — Skill bank web application designed for talent matching, containerized with Docker and deployed to Microsoft Azure.
+- ⚡ **[TanStack Query Demo App](https://github.com/r-mattasa/my-tanstackquery-demo-app)** — Production-ready data fetching and state caching demonstration deployed with Vite and GitHub Actions.
+
+---
+
+### 📊 GitHub Stats
+
+![Rubini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-mattasa&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-mattasa&layout=compact&theme=radial)
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [Rubini MattaSantharam](https://www.linkedin.com/in/rubini-mattasantharam/)
+- 📧 **Email:** [rubini.mattasantharam@gmail.com](mailto:rubini.mattasantharam@gmail.com)
+- 🐙 **GitHub:** [github.com/r-mattasa](https://github.com/r-mattasa)
 
 ---
 
