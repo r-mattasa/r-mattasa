@@ -29,7 +29,7 @@ Based in Oulu, Finland 🇫🇮
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Rubini MattaSantharam](https://www.linkedin.com/in/rubini-mattasantharam/)
-- 📧 **Email:** [rubini.mattasantharam@gmail.com](mailto:rubini.mattasantharam@gmail.com)
+- 📧 **Email:** [rubini.cbk@gmail.com](mailto:rubini.cbk@gmail.com)
 - 🐙 **GitHub:** [github.com/r-mattasa](https://github.com/r-mattasa)
 
 
