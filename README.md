@@ -33,7 +33,7 @@ Based in Oulu, Finland 🇫🇮
   ### 📫 Connect with Me
 
 * 💼 **LinkedIn:** [Rubini MattaSantharam](https://www.linkedin.com/in/rubini-mattasantharam/)
-* 📧 **Email:** [your.email@domain.com](mailto:your.email@domain.com)
+* 📧 **Email:** [rubini.cbk@gmail.com](mailto:rubini.cbk@gmail.com)
 * 📄 **Featured Project:** [Kätevä Palvelut Repository](https://github.com/r-mattasa/KatevaPalvelut)
 </p>
 
