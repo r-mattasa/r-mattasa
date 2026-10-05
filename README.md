@@ -3,13 +3,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-mattasa&label=Profile%20views&color=0e75b6&style=flat" alt="r-mattasa" /> </p>
 
-- 🌱 I’m currently working on improving my skills on  **Next.js, azure-certification,  python, c# and .Net ** I have some work experince in the technologies.
+-# Hi there, I'm Rubini MattaSantharam 👋
 
-- 👨‍💻 All of my projects are available at [https://github.com/r-mattasa/](https://github.com/r-mattasa/)
+**Full-Stack Software Developer | M.Sc. Computer Science**  
+Based in Oulu, Finland 🇫🇮
 
-- 💬 Ask me about **react,vue, node,**
+---
 
-- 📫 How to reach me **rubini.cbk@gmail.com**
+### 🛠 Tech Stack
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5/CSS3, Material UI, Tailwind CSS, Zustand, TanStack Query, Vite, Preact
+- **Backend:** Node.js, Express, C#, .NET, Python, REST APIs
+- **Databases & Data:** PostgreSQL, MySQL, SQL Server, pandas, ETL Pipelines
+- **Cloud & DevOps:** Docker, Git, GitLab, Microsoft Azure, Google Cloud APIs
+
+---
+
+### 🚀 Key Projects
+
+- **Kätevä Palvelut** — Full-stack service booking platform (Next.js, TypeScript, PostgreSQL, Material UI)
+- **TalentMap** — Skill bank web application deployed to Azure (Next.js, Express, TypeScript, Docker)
+- **Data Extraction & Reporting Pipeline** — Python/pandas API data processor rendering custom PDF reports
+- **TanStack Query Demo** — Production-ready data fetching & caching demonstration deployed with GitHub Actions
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [[linkedin.com/in/your-profile](https://linkedin.com](https://www.linkedin.com/in/rubini-mattasantharam/?isSelfProfile=true))
+- 📧 **Email:** your.email@domain.com
+- 📄 **Portfolio / Site:** [[your-website.com](https://your-website.com)](https://github.com/r-mattasa/KatevaPalvelut)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
